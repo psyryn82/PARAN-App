@@ -24,4 +24,3 @@ function startRecognition(langCode, className) {
 
 document.getElementById('start-english').onclick = () => startRecognition('en-US', 'english');
 document.getElementById('start-spanish').onclick = () => startRecognition('es-CO', 'spanish');
-recognition.continuousrecognition.langrecognition.interimResultsdiv.classNamerecognition.onresultchatWindow.scrollTopdiv.textContent
